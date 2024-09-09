@@ -3,7 +3,7 @@
 
 const ulDOM = document.querySelector('ul');
 
-const data = [...];
+const data = [];
 
 let HTML = '';
 
